@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author marjan
- *
- */
-module musicLibrary {
-}
